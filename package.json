@@ -1,0 +1,8 @@
+{
+  "name": "auth-api-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diaraujo13/auth-api-express.git",
+  "author": "Izaias Araujo <izaiasousa@gmail.com>",
+  "license": "MIT"
+}
